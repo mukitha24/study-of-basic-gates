@@ -91,4 +91,4 @@ endmodule
 
 **Result:**
 
-
+Thus the study and verify the truth table of logic gates is running successfully
